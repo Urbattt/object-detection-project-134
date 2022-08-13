@@ -1,0 +1,20 @@
+body {
+    background-size: cover;
+    background-position: center;
+    }
+    
+    .heading {
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    
+    #status{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    }
+    
+    canvas{
+    border-radius: 20px;
+    box-shadow:5px 5px 5px blue;
+    
+    }
